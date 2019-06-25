@@ -15,6 +15,6 @@ public class StartCtl {
 
   @RequestMapping("/start")
   public String start(){
-    return "welcome to jenkins";
+    return "welcome to spring-boot";
   }
 }
